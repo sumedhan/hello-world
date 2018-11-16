@@ -1,2 +1,2 @@
-Hi how are you
-Fly you fools
+This is my first readme file.
+Nothing interesting to report here.
